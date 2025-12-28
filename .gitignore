@@ -1,0 +1,18 @@
+# Python virtual environment
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Local Vector Database
+review_search_db/
+
+# Data files
+reviews.jsonl
+*.log
+
+# macOS system files
+.DS_Store
+
+# Environment variables (if you add keys later)
+.env
