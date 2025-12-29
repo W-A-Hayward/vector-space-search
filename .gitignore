@@ -14,5 +14,5 @@ reviews.jsonl
 # macOS system files
 .DS_Store
 
-# Environment variables (if you add keys later)
+# Environment variables 
 .env
